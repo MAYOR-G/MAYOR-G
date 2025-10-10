@@ -1,8 +1,6 @@
-## Hi there 👋
-
 
 <h1 align="center">Hi 👋, I'm OLUGBENGA MAYOWA EMMANUEL</h1>
-<h3 align="center">A passionate MACHINE LEARNING AND AI ENGINEER from NIGERIA</h3>
+<h3 align="center">A passionate MACHINE LEARNING AND AI ENGINEER </h3>
 
 # 💫 About Me:
 🚀 I'm currently working on: Building advanced AI and ML projects, including GPT-like models, real-time trading bots, and AI-powered web applications.<br><br>🤝 I'm looking to collaborate on: Innovative AI/ML research, open-source AI tools, or startups leveraging AI to solve real-world problems.<br><br>🔍 I'm looking for help with: Scaling ML models for production, optimizing training pipelines, and deploying AI solutions to the cloud.<br><br>📚 I'm currently learning: Cutting-edge topics like large language models, reinforcement learning, multimodal AI systems, and MLOps best practices.<br><br>💬 Ask me about: AI engineering, model fine-tuning, computer vision, NLP, and integrating AI into apps.<br><br>🎉 Fun fact: I love using AI to automate everyday tasks and believe in making AI accessible to everyone!
