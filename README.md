@@ -1,10 +1,6 @@
-<!-- ========================= -->
-<!-- 🌟 PERSONALIZED GITHUB PROFILE README -->
-<!-- ========================= -->
 
-<!-- HEADER / BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co/vs3DG9V/banner-ml-ai-engineer.png" alt="Olugbenga Mayowa Emmanuel - Machine Learning Engineer Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/17742e6f-454c-4729-8bb9-9398da16c56e" alt="Olugbenga Mayowa Emmanuel - Machine Learning Engineer Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">OLUGBENGA MAYOWA EMMANUEL</span></h1>
