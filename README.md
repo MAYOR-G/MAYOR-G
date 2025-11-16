@@ -49,6 +49,30 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+<h3 align="center">✨ My AI & ML Engineering Focus ✨</h3>
+
+<div align="center">
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-blue?style=for-the-badge&logo=tensorflow">
+  </a>
+  <a href="https://huggingface.co/transformers">
+    <img src="https://img.shields.io/badge/NLP-Transformers_&_RAG-purple?style=for-the-badge&logo=huggingface">
+  </a>
+  <a href="https://www.langchain.com/">
+    <img src="https://img.shields.io/badge/AI_Agents-LangChain_&_CrewAI-orange?style=for-the-badge&logo=langchain">
+  </a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/Computer_Vision-CNNs_&_YOLO-green?style=for-the-badge&logo=opencv">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/MLOps-Deployment_&_CI/CD-grey?style=for-the-badge&logo=docker">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 ## 🧠 Tech Stack & Tools
 
 <p align="center">
