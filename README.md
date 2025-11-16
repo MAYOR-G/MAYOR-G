@@ -4,6 +4,10 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">OLUGBENGA MAYOWA EMMANUEL</span></h1>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h3 align="center">🚀 Machine Learning & AI Engineer | Building Scalable Intelligent Systems</h3>
 
 <p align="center">
@@ -41,6 +45,9 @@
 ⚡ **Fun Fact:** I love making machines think — and making humans smile 😄  
 
 ---
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ## 🧠 Tech Stack & Tools
 
@@ -127,7 +134,9 @@
 
 <!-- FOOTER / SIGNATURE -->
 <p align="center">
-  <b>“Building the future one model at a time.”</b> 🤖✨
+  <b>“Building the future, one model at a time.”</b> 🤖✨
 </p>
 
-
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
