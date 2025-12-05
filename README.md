@@ -39,7 +39,7 @@
 
 💬 **Ask Me About:**  
 - Machine Learning & Deep Learning  
-- AI Model Deployment, RAG, FastAPI  
+- AI Model Deployment, RAG, AI Agents  
 - Data Engineering for AI systems  
 
 ⚡ **Fun Fact:** I love making machines think — and making humans smile 😄  
