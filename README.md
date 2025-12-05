@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/NLP-Transformers_&_RAG-purple?style=for-the-badge&logo=huggingface">
   </a>
   <a href="https://www.langchain.com/">
-    <img src="https://img.shields.io/badge/AI_Agents-LangChain_&_CrewAI-orange?style=for-the-badge&logo=langchain">
+    <img src="https://img.shields.io/badge/AI_Agents-LangGraph_&_CrewAI-orange?style=for-the-badge&logo=langchain">
   </a>
   <a href="https://opencv.org/">
     <img src="https://img.shields.io/badge/Computer_Vision-CNNs_&_YOLO-green?style=for-the-badge&logo=opencv">
