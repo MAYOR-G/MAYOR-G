@@ -113,12 +113,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAYOR-G&show_icons=true&theme=tokyonight" height="150" alt="Mayowa GitHub stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MAYOR-G&theme=tokyonight" height="150" alt="GitHub Streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAYOR-G&theme=tokyonight" width="600" alt="Full Stats Overview">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYOR-G&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MAYOR-G&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -144,14 +143,15 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MAYOR-G&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAYOR-G&theme=radical" alt="Isometric Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MAYOR-G&icon=0&color=6" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=MAYOR-G&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
 </p>
 
 ---
