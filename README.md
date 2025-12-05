@@ -80,6 +80,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,raspberrypi,opencv,figma,canva" />
 </p>
 
+
 ---
 
 ### 🧩 Core Expertise
@@ -119,6 +120,11 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=MAYOR-G&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MAYOR-G&theme=tokyonight" alt="MAYOR-G Languages" />
+</p>
+
 
 ---
 
@@ -164,3 +170,4 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
