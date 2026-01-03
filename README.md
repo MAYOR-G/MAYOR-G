@@ -21,29 +21,32 @@
 
 ## 💫 About Me
 
-🎯 **Mission:** To design reliable and accessible AI systems that bridge innovation and real-world impact.  
-💡 **Focus Areas:** LLMs • RAG Systems • AI Agents • Computer Vision • NLP • MLOps  
+I am an **AI & Machine Learning Engineer** passionate about bridging the gap between theoretical research and production-grade systems. I don't just build models; I engineer robust, scalable architectures that leverage **Generative AI**, **Computer Vision**, and **Autonomous Agents** to solve complex real-world problems.
 
-🚀 **Currently Working On:**  
-- Building **LLM pipelines** and **custom GPT-like models**  
-- Designing **AI Agent-to-Agent communication systems**  
-- Developing **AI-powered trading bots** and **smart assistants**  
+🛠 **Technical Arsenal**
+* **Core:** Python, PyTorch, TensorFlow, SQL
+* **Generative AI:** LLMs (Gemini, GPT-4, Llama), RAG Pipelines, Vector Databases (ChromaDB, Pinecone)
+* **Agentic AI:** Multi-Agent Orchestration, LangChain, AutoGen, CrewAI
+* **Deployment:** FastAPI, Docker, Kubernetes, CI/CD, MLOps practices
 
-🤝 **Looking to Collaborate On:**  
-- Open-source AI projects & community research  
-- Applied ML tools for real-world domains (health, finance, education)  
+🚀 **Current Engineering Focus**
+* **Agentic AI Systems:** Architecting autonomous multi-agent environments where AI workers collaborate, plan, and execute complex workflows without human intervention.
+* **Algorithmic Trading:** Developing quantitative trading strategies and financial bots powered by **Reinforcement Learning** and real-time market data analysis.
+* **Multimodal Architectures:** Building end-to-end systems that natively process and reason across Text, Audio, and Vision (like my project, *OmniSense*).
 
-📚 **Currently Learning:**  
-- Multimodal AI, Reinforcement Learning  
-- Advanced MLOps, Deployment Optimization  
+🤝 **Open for Collaboration**
+I am actively looking to contribute to high-impact projects involving **Open Source AI Infrastructure**, **FinTech/Quant Research**, and **Applied ML** in healthcare or education.
 
-💬 **Ask Me About:**  
-- Machine Learning & Deep Learning  
-- AI Model Deployment, RAG, AI Agents  
-- Data Engineering for AI systems  
+🌱 **Currently Exploring**
+* Advanced **Reinforcement Learning** strategies for dynamic decision-making.
+* **Edge AI** and optimizing inference for low-latency environments.
 
-⚡ **Fun Fact:** I love making machines think — and making humans smile 😄  
+💬 **Let's Discuss**
+* System Architecture for Large Language Models.
+* Strategies for deploying & monitoring Agents in production.
+* The intersection of AI and Quantitative Finance.
 
+⚡ **Fun Fact:** I spend half my time teaching machines how to think, and the other half debugging why they overthink.
 ---
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
